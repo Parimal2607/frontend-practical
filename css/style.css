@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+section{
+    padding: 100px 0px;
+}
+
+h1{
+    font-size: 77px;
+    line-height: 87px;
+    margin-bottom: 15px;
+    color: #333
+}
+h2{
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 15px;
+    color: #333;
+}
+h3{
+    font-size: 33px;
+    line-height:  40px;
+    margin-bottom: 10px;
+    color: #333;
+}
+h4{
+    font-size: 15px;
+    line-height:  22px;
+    color: #333;
+}
+p{
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 10px;
+    color: #292929;
+}
+
+header{
+    padding: 0px 100px;
+    background: #84878836;
+}
+.navbar-nav{
+    padding: 15px 30px;
+}
+.nav-link{
+    padding-right: 20px;
+    color: #333;
+}
+.btn{
+    border: 2px solid rgba(199, 71, 199, 0.774);
+}
+.theam-bg{
+    background: #84878836;
+}
+
+.title-txt{
+    text-align: center;
+}
+.title-txt h4{
+    color: blueviolet;
+    font-size: 20px;
+    font-weight: bold;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
+}
+h5{
+    font-weight: bolder;
+}
